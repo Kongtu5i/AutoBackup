@@ -24,7 +24,7 @@ help_msg = '''§r==============================================
 §r使用§6!!autobackup add <玩家名>§r添加玩家到自动备份名单
 §r使用§6!!autobackup remove <玩家名>§r从自动备份名单中移除玩家
 §r使用§6!!autobackup list§r列出所有在自动备份名单中的玩家
-§r示例: §a!!autobackup add can_yi_§r
+§r示例: §a!!autobackup add hsds§r
 §r==============================================='''
 
 def json_read(path: str) -> dict:
