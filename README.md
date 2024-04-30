@@ -24,6 +24,8 @@
 
 `!!autobackup list` 列出所有在自动备份名单中的玩家
 
+示例: !!autobackup add hsds
+
 ## 配置文件
 
 ### permission_level
