@@ -3,6 +3,8 @@
 
 当名单中的玩家加入我的世界服务器时进行自动备份
 
+强烈建议名单中加入hsds？(bushi
+
 存档备份依靠fanllen_breath的QuickBackupM
 
 [QuickBackupM仓库地址](https://github.com/TISUnion/QuickBackupM)
