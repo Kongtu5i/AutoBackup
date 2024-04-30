@@ -22,6 +22,8 @@
 
 `!!autobackup remove <player>` 从自动备份名单中移除玩家
 
+`!!autobackup list` 列出所有在自动备份名单中的玩家
+
 ## 配置文件
 
 ### permission_level
